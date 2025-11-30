@@ -21,6 +21,7 @@ const domain_mappings = {
   'githubusercontent.com': 'nf-githubusercontent-com.at13xe.top',
   'github.global.ssl.fastly.net': 'nf-github-global-ssl-fastly-net.at13xe.top',
   'api.npms.io': 'nf-api-npms-io.at13xe.top',
+  'youtube.com': 'nf-yt.at13xe.top',
   'github.community': 'nf-github-community.at13xe.top'
 };
 
