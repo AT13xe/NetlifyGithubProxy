@@ -4,24 +4,24 @@ export const config = { path: "/*" };
 
 // 域名映射配置（代理前缀统一为 nf-xxx.）
 const domain_mappings = {
-  'github.com': 'nf-gh.',
-  'avatars.githubusercontent.com': 'nf-avatars-githubusercontent-com.',
-  'github.githubassets.com': 'nf-github-githubassets-com.',
-  'collector.github.com': 'nf-collector-github-com.',
-  'api.github.com': 'nf-api-github-com.',
-  'raw.githubusercontent.com': 'nf-raw-githubusercontent-com.',
-  'gist.githubusercontent.com': 'nf-gist-githubusercontent-com.',
-  'github.io': 'nf-github-io.',
-  'assets-cdn.github.com': 'nf-assets-cdn-github-com.',
-  'cdn.jsdelivr.net': 'nf-cdn.jsdelivr-net.',
-  'securitylab.github.com': 'nf-securitylab-github-com.',
-  'www.githubstatus.com': 'nf-www-githubstatus-com.',
-  'npmjs.com': 'nf-npmjs-com.',
-  'git-lfs.github.com': 'nf-git-lfs-github-com.',
-  'githubusercontent.com': 'nf-githubusercontent-com.',
-  'github.global.ssl.fastly.net': 'nf-github-global-ssl-fastly-net.',
-  'api.npms.io': 'nf-api-npms-io.',
-  'github.community': 'nf-github-community.'
+  'github.com': 'nf-gh.at13xe.top',
+  'avatars.githubusercontent.com': 'nf-avatars-githubusercontent-com.at13xe.top',
+  'github.githubassets.com': 'nf-github-githubassets-com.at13xe.top',
+  'collector.github.com': 'nf-collector-github-com.at13xe.top',
+  'api.github.com': 'nf-api-github-com.at13xe.top',
+  'raw.githubusercontent.com': 'nf-raw-githubusercontent-com.at13xe.top',
+  'gist.githubusercontent.com': 'nf-gist-githubusercontent-com.at13xe.top',
+  'github.io': 'nf-github-io.at13xe.top',
+  'assets-cdn.github.com': 'nf-assets-cdn-github-com.at13xe.top',
+  'cdn.jsdelivr.net': 'nf-cdn.jsdelivr-net.at13xe.top',
+  'securitylab.github.com': 'nf-securitylab-github-com.at13xe.top',
+  'www.githubstatus.com': 'nf-www-githubstatus-com.at13xe.top',
+  'npmjs.com': 'nf-npmjs-com.at13xe.top',
+  'git-lfs.github.com': 'nf-git-lfs-github-com.at13xe.top',
+  'githubusercontent.com': 'nf-githubusercontent-com.at13xe.top',
+  'github.global.ssl.fastly.net': 'nf-github-global-ssl-fastly-net.at13xe.top',
+  'api.npms.io': 'nf-api-npms-io.at13xe.top',
+  'github.community': 'nf-github-community.at13xe.top'
 };
 
 // 需要重定向的路径
